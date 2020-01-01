@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Friendly Cook</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Favourite</string>
+    <string name="tab_text_3">Chart</string>
+    <string name="tab_text_4">Profile</string>
+
+
 </resources>
