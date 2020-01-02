@@ -1,6 +1,11 @@
-package com.semicolon.friendlycook;
+package com.semicolon.friendlycook.Adapter;
 
 import android.content.Context;
+
+import com.semicolon.friendlycook.CartFragmentActivity;
+import com.semicolon.friendlycook.FavouriteFragmentActivity;
+import com.semicolon.friendlycook.HomeFragmentActivity;
+import com.semicolon.friendlycook.ProfileFragmentActivity;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -44,4 +49,7 @@ public class MyAdapter extends FragmentPagerAdapter {
     public int getCount() {
         return totalTabs;
     }
+
+
+
 }
